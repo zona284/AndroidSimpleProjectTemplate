@@ -16,14 +16,16 @@ Android Simple Project Template Ready To Use
 - View (contain feature or page classess)
 
 **Network Supported Response Example:**
-```{
+```
+{
   "rescode":"",
   "message":{
     "title":"",
     "body":""
   },
   "data":{}
-}```
+}
+```
 
 Another Template:
 - https://github.com/zona284/MVVMExample
